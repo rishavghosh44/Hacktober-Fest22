@@ -1,6 +1,0 @@
-include ':app'
-
-rootProject.name = "Gradient"
-=======
-rootProject.name = "Team Rainbow Officials"
-
